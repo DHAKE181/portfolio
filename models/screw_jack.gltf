@@ -1,0 +1,703 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 512,
+      "max": [
+        7.840322494506836,
+        15.263962745666504,
+        7.873911380767822
+      ],
+      "min": [
+        -7.840322494506836,
+        -12.254522323608398,
+        -7.873911380767822
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 512,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 1506,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3297,
+      "max": [
+        3.1472949981689453,
+        1.7890081405639648,
+        3.149606227874756
+      ],
+      "min": [
+        -3.1472949981689453,
+        -1.3605982065200806,
+        -3.140364646911621
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 3297,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 11394,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 17284,
+      "max": [
+        2.161081552505493,
+        19.685039520263672,
+        2.1653542518615723
+      ],
+      "min": [
+        -2.1653542518615723,
+        0.0,
+        -2.148279905319214
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 17284,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 59832,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 7263,
+      "max": [
+        0.7677165269851685,
+        1.9659744501113892,
+        1.9685039520263672
+      ],
+      "min": [
+        -0.7677165269851685,
+        -1.9659744501113892,
+        -1.9685039520263672
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 7263,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5125,
+      "count": 32892,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 888,
+      "max": [
+        3.8924646377563477,
+        4.724409580230713,
+        3.8924646377563477
+      ],
+      "min": [
+        -3.8924646377563477,
+        0.0,
+        -3.8924646377563477
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 888,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5125,
+      "count": 2586,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 204,
+      "max": [
+        0.7858478426933289,
+        16.929134368896484,
+        0.787401556968689
+      ],
+      "min": [
+        -0.7858478426933289,
+        0.0,
+        -0.7811926603317261
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 204,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5125,
+      "count": 588,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 16384,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6024,
+      "byteOffset": 16384,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 105504,
+      "byteOffset": 22408,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 45576,
+      "byteOffset": 127912,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 553088,
+      "byteOffset": 173488,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 239328,
+      "byteOffset": 726576,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 232416,
+      "byteOffset": 965904,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 131568,
+      "byteOffset": 1198320,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28416,
+      "byteOffset": 1329888,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10344,
+      "byteOffset": 1358304,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6528,
+      "byteOffset": 1368648,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2352,
+      "byteOffset": 1375176,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1377528,
+      "uri": "screw_jack.bin"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Material__25",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9098039865493774,
+          0.443136990070343,
+          0.03137259930372238,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "name": "Material__26",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.6862750053405762,
+          0.4352940022945404,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "name": "Material__27",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.792156994342804,
+          0.8196079730987549,
+          0.9333329796791077,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "name": "satin_finish_stainless_steel",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.9490200281143188,
+          0.9098039865493774,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "name": "Material__28",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9098039865493774,
+          0.443136990070343,
+          0.11372499912977219,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Revolve1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Thread1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cut-Extrude2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "BallsDetailed",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "CirPattern1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Boss-Extrude2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15
+          },
+          "indices": 17,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 0,
+      "name": "Revolve1"
+    },
+    {
+      "children": [
+        0
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        4.371138828673793e-08,
+        0.0,
+        0.0,
+        -4.371138828673793e-08,
+        1.0,
+        0.0,
+        0.0217811226606369,
+        0.33071753139495846,
+        -0.2931582929611206,
+        1.0
+      ]
+    },
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 1,
+      "name": "Thread1"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        4.371138828673793e-08,
+        0.0,
+        0.0,
+        -4.371138828673793e-08,
+        1.0,
+        0.0,
+        0.0217811226606369,
+        0.6929813930511475,
+        -0.29315826873779294,
+        1.0
+      ]
+    },
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 2,
+      "name": "Cut-Extrude2"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.2693244218826294,
+        4.209623583051325e-08,
+        -0.9630496501922607,
+        0.0,
+        0.0,
+        1.0,
+        4.371138828673794e-08,
+        0.0,
+        0.9630496501922607,
+        -1.1772544716848188e-08,
+        0.2693244218826294,
+        0.0,
+        0.0217811226606369,
+        0.5115009975433349,
+        -0.29315826873779294,
+        1.0
+      ]
+    },
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 3,
+      "name": "BallsDetailed"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        -1.629206565212371e-07,
+        -0.9999998807907103,
+        -4.3711381181310565e-08,
+        0.0,
+        0.9999998807907103,
+        -1.629206565212371e-07,
+        -7.12148794931389e-15,
+        0.0,
+        0.0,
+        -4.371138828673793e-08,
+        0.9999999999999998,
+        0.0,
+        0.0217811226606369,
+        0.9310009246826172,
+        -0.29315826873779294,
+        1.0
+      ]
+    },
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 4,
+      "name": "CirPattern1"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        4.371138828673793e-08,
+        0.0,
+        0.0,
+        -4.371138828673793e-08,
+        1.0,
+        0.0,
+        0.0217811226606369,
+        0.9075010025024414,
+        -0.29315826873779294,
+        1.0
+      ]
+    },
+    {
+      "matrix": [
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0254,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 5,
+      "name": "Boss-Extrude2"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        -0.4909716248512268,
+        -0.8602875471115112,
+        -0.1373042762279511,
+        0.0,
+        0.2693244814872743,
+        2.086162567138672e-07,
+        -0.9630498290061951,
+        0.0,
+        0.8284993767738342,
+        -0.5098093152046204,
+        0.2316963523626328,
+        0.0,
+        -0.10076150951385497,
+        0.8695009963989258,
+        0.1450291805267334,
+        1.0
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        1,
+        3,
+        5,
+        7,
+        9,
+        11
+      ]
+    }
+  ]
+}
